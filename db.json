@@ -10,27 +10,7 @@
       "caption": "Snowy mountains",
       "price": 0,
       "isFavorite": false,
-      "status": "new",
-      "author": {
-        "id": "a1",
-        "name": "John",
-        "lastname": "Doe",
-        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-      },
-      "comments": [
-        {
-          "id": 101,
-          "date": "2023-07-02T00:00:00Z",
-          "body": "Amazing scenery!",
-          "postId": 1
-        },
-        {
-          "id": 102,
-          "date": "2023-07-03T00:00:00Z",
-          "body": "I want to visit!",
-          "postId": 1
-        }
-      ]
+      "status": "new"
     },
     {
       "id": 2,
@@ -42,27 +22,7 @@
       "caption": "BBQ grill",
       "price": 5,
       "isFavorite": true,
-      "status": "not much new",
-      "author": {
-        "id": "a2",
-        "name": "Jane",
-        "lastname": "Smith",
-        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
-      },
-      "comments": [
-        {
-          "id": 103,
-          "date": "2023-07-06T00:00:00Z",
-          "body": "Mouth-watering!",
-          "postId": 2
-        },
-        {
-          "id": 104,
-          "date": "2023-07-07T00:00:00Z",
-          "body": "What's your secret?",
-          "postId": 2
-        }
-      ]
+      "status": "not much new"
     },
     {
       "id": 3,
@@ -74,21 +34,7 @@
       "caption": "Underwater life",
       "price": 15,
       "isFavorite": false,
-      "status": "new",
-      "author": {
-        "id": "a3",
-        "name": "Alice",
-        "lastname": "Brown",
-        "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126"
-      },
-      "comments": [
-        {
-          "id": 105,
-          "date": "2023-07-09T00:00:00Z",
-          "body": "Breathtaking views!",
-          "postId": 3
-        }
-      ]
+      "status": "new"
     },
     {
       "id": 4,
@@ -100,21 +46,7 @@
       "caption": "Desert landscape",
       "price": 10,
       "isFavorite": true,
-      "status": "old",
-      "author": {
-        "id": "a4",
-        "name": "Bob",
-        "lastname": "White",
-        "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-      },
-      "comments": [
-        {
-          "id": 106,
-          "date": "2023-07-11T00:00:00Z",
-          "body": "Essential reading!",
-          "postId": 4
-        }
-      ]
+      "status": "old"
     },
     {
       "id": 5,
@@ -126,21 +58,7 @@
       "caption": "City skyline",
       "price": 20,
       "isFavorite": false,
-      "status": "new",
-      "author": {
-        "id": "a5",
-        "name": "Charlie",
-        "lastname": "Green",
-        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
-      },
-      "comments": [
-        {
-          "id": 107,
-          "date": "2023-07-13T00:00:00Z",
-          "body": "Love this city!",
-          "postId": 5
-        }
-      ]
+      "status": "new"
     },
     {
       "id": 6,
@@ -152,21 +70,7 @@
       "caption": "Arctic adventure",
       "price": 25,
       "isFavorite": true,
-      "status": "not much new",
-      "author": {
-        "id": "a6",
-        "name": "Dave",
-        "lastname": "Black",
-        "avatar": "https://images.unsplash.com/photo-1532074205216-d0e1f7e15948"
-      },
-      "comments": [
-        {
-          "id": 108,
-          "date": "2023-07-15T00:00:00Z",
-          "body": "Incredible journey!",
-          "postId": 6
-        }
-      ]
+      "status": "not much new"
     },
     {
       "id": 7,
@@ -178,21 +82,7 @@
       "caption": "Beach paradise",
       "price": 30,
       "isFavorite": false,
-      "status": "old",
-      "author": {
-        "id": "a7",
-        "name": "Eve",
-        "lastname": "Johnson",
-        "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-      },
-      "comments": [
-        {
-          "id": 109,
-          "date": "2023-07-17T00:00:00Z",
-          "body": "I want to go here!",
-          "postId": 7
-        }
-      ]
+      "status": "old"
     },
     {
       "id": 8,
@@ -204,21 +94,7 @@
       "caption": "Gardening tools",
       "price": 5,
       "isFavorite": true,
-      "status": "new",
-      "author": {
-        "id": "a8",
-        "name": "Frank",
-        "lastname": "Brown",
-        "avatar": "https://images.unsplash.com/photo-1532074205216-d0e1f7e15948"
-      },
-      "comments": [
-        {
-          "id": 110,
-          "date": "2023-07-19T00:00:00Z",
-          "body": "Great tips!",
-          "postId": 8
-        }
-      ]
+      "status": "new"
     },
     {
       "id": 9,
@@ -230,21 +106,7 @@
       "caption": "Camera gear",
       "price": 15,
       "isFavorite": false,
-      "status": "not much new",
-      "author": {
-        "id": "a9",
-        "name": "Grace",
-        "lastname": "Harris",
-        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
-      },
-      "comments": [
-        {
-          "id": 111,
-          "date": "2023-07-21T00:00:00Z",
-          "body": "Very helpful!",
-          "postId": 9
-        }
-      ]
+      "status": "not much new"
     },
     {
       "id": 10,
@@ -256,73 +118,7 @@
       "caption": "Delicious meal",
       "price": 10,
       "isFavorite": true,
-      "status": "old",
-      "author": {
-        "id": "a10",
-        "name": "Henry",
-        "lastname": "Wilson",
-        "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-      },
-      "comments": [
-        {
-          "id": 112,
-          "date": "2023-07-23T00:00:00Z",
-          "body": "Yummy recipes!",
-          "postId": 10
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Mindfulness",
-      "subtitle": "Living in the Present",
-      "description": "Explore mindfulness practices for a better life.",
-      "date": "2023-07-24T00:00:00Z",
-      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
-      "caption": "Peaceful mind",
-      "price": 8,
-      "isFavorite": false,
-      "status": "new",
-      "author": {
-        "id": "a1",
-        "name": "John",
-        "lastname": "Doe",
-        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-      },
-      "comments": [
-        {
-          "id": 113,
-          "date": "2023-07-25T00:00:00Z",
-          "body": "Life-changing!",
-          "postId": 11
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Tech Innovations",
-      "subtitle": "Future of Technology",
-      "description": "Discover the latest in tech innovations.",
-      "date": "2023-07-26T00:00:00Z",
-      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
-      "caption": "Tech gadgets",
-      "price": 20,
-      "isFavorite": true,
-      "status": "not much new",
-      "author": {
-        "id": "a2",
-        "name": "Jane",
-        "lastname": "Smith",
-        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
-      },
-      "comments": [
-        {
-          "id": 114,
-          "date": "2023-07-27T00:00:00Z",
-          "body": "Very informative!",
-          "postId": 12
-        }
-      ]
+      "status": "old"
     }
   ]
 }
