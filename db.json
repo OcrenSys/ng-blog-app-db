@@ -107,18 +107,6 @@
          "price":65,
          "status":"onSale",
          "author":9
-      },
-      {
-         "id":10,
-         "title":"Culinary Delights for Food Lovers",
-         "subtitle":"Cooking with Love: Discover new recipes and techniques",
-         "description":"Explore diverse cuisines and cooking styles with step-by-step instructions for creating delicious meals at home.",
-         "date":"2023-07-22T00:00:00Z",
-         "image":"https://images.pexels.com/photos/2668755/pexels-photo-2668755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-         "caption":"Delicious meal",
-         "price":80,
-         "status":"soulOut",
-         "author":10
       }
    ],
    "comments":[
@@ -237,12 +225,6 @@
          "name":"Grace",
          "lastname":"Harris",
          "avatar":"https://i.pravatar.cc/150?img=9"
-      },
-      {
-         "id":10,
-         "name":"Henry",
-         "lastname":"Wilson",
-         "avatar":"https://i.pravatar.cc/150?img=10"
       }
    ]
 }
