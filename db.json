@@ -185,65 +185,65 @@
 		}
 	],
 	"authors": [
-		{
-      "id": 1,
-      "name": "John",
-      "lastname": "Doe",
-      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-    },
-    {
-      "id": 2,
-      "name": "Jane",
-      "lastname": "Smith",
-      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9"
-    },
-    {
-      "id": 3,
-      "name": "Alice",
-      "lastname": "Brown",
-      "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126"
-    },
-    {
-      "id": 4,
-      "name": "Bob",
-      "lastname": "White",
-      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-    },
-    {
-      "id": 5,
-      "name": "Charlie",
-      "lastname": "Green",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
-    },
-    {
-      "id": 6,
-      "name": "Dave",
-      "lastname": "Black",
-      "avatar": "https://images.unsplash.com/photo-1532074205216-d0e1f7e15948"
-    },
-    {
-      "id": 7,
-      "name": "Eve",
-      "lastname": "Johnson",
-      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-    },
-    {
-      "id": 8,
-      "name": "Frank",
-      "lastname": "Brown",
-      "avatar": "https://images.unsplash.com/photo-1532074205216-d0e1f7e15948"
-    },
-    {
-      "id": 9,
-      "name": "Grace",
-      "lastname": "Harris",
-      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2"
-    },
-    {
-      "id": 10,
-      "name": "Henry",
-      "lastname": "Wilson",
-      "avatar": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
-    }
-	]
+  {
+    "id": 1,
+    "name": "John",
+    "lastname": "Doe",
+    "avatar": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "lastname": "Smith",
+    "avatar": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "id": 3,
+    "name": "Alice",
+    "lastname": "Brown",
+    "avatar": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "id": 4,
+    "name": "Bob",
+    "lastname": "White",
+    "avatar": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "id": 5,
+    "name": "Charlie",
+    "lastname": "Green",
+    "avatar": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "id": 6,
+    "name": "Dave",
+    "lastname": "Black",
+    "avatar": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "id": 7,
+    "name": "Eve",
+    "lastname": "Johnson",
+    "avatar": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "id": 8,
+    "name": "Frank",
+    "lastname": "Brown",
+    "avatar": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "id": 9,
+    "name": "Grace",
+    "lastname": "Harris",
+    "avatar": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "id": 10,
+    "name": "Henry",
+    "lastname": "Wilson",
+    "avatar": "https://i.pravatar.cc/150?img=10"
+  }
+]
 }
